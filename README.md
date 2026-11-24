@@ -1,7 +1,7 @@
 # Hi, I'm Reina Miyasako
 
 Software Engineering student at **Sunway University** (dual degree with **Lancaster University**), based in Malaysia / from Japan.
-I enjoy building practical apps and making sure they actually work. I'm especially interested in **software testing and quality**.
+I enjoy building practical apps and making sure they actually work.
 
 マレーシアのSunway大学でソフトウェア工学を学んでいる日本人学生です。
 
